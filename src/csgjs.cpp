@@ -540,5 +540,3 @@ csgjs_model csgjs_cube(const int size, const int center[])
     model.vertices = vertices;
     return model;
 }
-
-#endif
